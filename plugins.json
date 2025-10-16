@@ -230,5 +230,9 @@
   {
     "id": "wikinty.title_plugin",
     "repositoryUrl": "https://github.com/wikinty/title_plugin"
+  },
+  {
+    "id": "internetsb.jmcomic_plugin",
+    "repositoryUrl": "https://github.com/internetsb/jmcomic_plugin"
   }
 ]
